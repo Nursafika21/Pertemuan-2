@@ -23,7 +23,7 @@ fun main(args: Array<String>) {
     arrayList -= 1 // We can delete!
     print("Remove last element in arrayList : ")
     println(arrayList)
-    
+
     arrayList += (1..5)
     print("Add range in arrayList : ")
     println(arrayList)
